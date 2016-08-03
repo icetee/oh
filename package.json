@@ -1,0 +1,28 @@
+{
+  "name": "oh",
+  "version": "1.0.0",
+  "description": "Intézmény lekérdező az Oktatási Hivataltól.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Oktatási",
+    "Hivatal",
+    "oktatas",
+    "oktatas.hu",
+    "www.oktatas",
+    "query",
+    "json",
+    "excel",
+    "xlsx"
+  ],
+  "author": "Tamás András Horváth <htomy92@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "json2xls": "^0.1.2",
+    "lodash": "^4.14.1",
+    "zombie": "^4.2.1"
+  }
+}
